@@ -1,2 +1,2 @@
-sOmd3v/awesomeXSS
+from sOmd3v/awesomeXSS
 # effective-disco
